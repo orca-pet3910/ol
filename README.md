@@ -13,4 +13,5 @@ nope
 ## funniest feature in your opinion?
 the `eat` command. it's so funny lolll
 
-enjoy this useless thing i made for totally no reason
+
+**enjoy this useless thing i made for totally no reason**
