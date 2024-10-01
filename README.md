@@ -10,4 +10,7 @@ nope
 ## how do i separate statements?
 **(important, do NOT get confused)** a double whitespace. also it apparently breaks strings when double whitespaces are in a string because of my coding skills
 
+## funniest feature in your opinion?
+the `eat` command. it's so funny lolll
+
 enjoy this useless thing i made for totally no reason
